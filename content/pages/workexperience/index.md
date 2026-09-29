@@ -7,7 +7,7 @@ draft = false
 <h1 style="font-size:40px;">
   Research Project Lead
   <span style="font-size:30px; font-style: italic; font-weight: normal;">
-    <br>Columbia University Geometry Lab
+    <br>Columbia University Geometry and the City Lab
   </span>
 </h1>
 
@@ -31,7 +31,7 @@ draft = false
 
 <p style="font-size:30px; " width= "10">
 <ul>
-<li>Worked on the Deloitte-Protek NYSOC team to explore and evaluate the Google SecOps test environment for platform migration, 
+<li>Worked on the ProtekIT Services NYSOC team to explore and evaluate the Google SecOps test environment for platform migration, 
 reviewing the SIEM and SOAR environments for analyst use</li>
 <li>As part of my evaluation of the platform, I created use cases and playbooks in SecOps test environment to simulate the day to day
 needs of a security analyst from a SIEM environment</li>
