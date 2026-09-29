@@ -9,11 +9,12 @@ draft = false
 
 <!--img src="images/circleHeadshot.png" alt="Bea Headshot" width="300" height="300" style="float:right;"-->
 <p style="font-size:20px; " width= "10">
-I'm a Junior at Columbia Universty majoring in computer science and minoring in mathematics. I am most experienced in the fields of computer graphics, cyber security, and systems programming, however I enjoy all forms of coding!
+I'm a senior at Columbia University majoring in computer science and minoring in mathematics, where I work as an undergraduate researcher with the <a href="https://gatc.cs.columbia.edu">Geometry and the City Lab</a>. 
 <br>Thank you for visiting Bea Dot Com!<br>
 <br>
 <br>
 </p>
+
 
 You can reach me at [beatricestotz@gmail.com](mailto:beatricestotz@gmail.com) or at [571-969-9951](tel:5719699951)
 
