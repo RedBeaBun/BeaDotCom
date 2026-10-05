@@ -13,10 +13,10 @@ draft = false
 
 <p style="font-size:30px; " width= "10">
 <ul>
-<li>Leading project to visualize rock climbing walls in virtual reality with ML generated climbing paths </li>
-<li>Wrote program in python to generate random seed-based rock climbing walls and sample a point clouds of those walls to imitate a real-world scanner with a simulated camera </li>
-<li>Training PointNet ML model to process a point cloud and assign labels to each point, with the goal of recognizing specific holds on a novel rock climbing wall</li>
-</ul>
+  <li>Lead project to engineer a machine learning model to predict the difficulty of a path up a rock climbing wall</li>
+  <li>Created program to sample point clouds from recreated real-world climbs for training our model</li>
+  <li>Achieved a new state of the art in MoonBoard problem difficulty prediction, wrote a <a href="https://arxiv.org/abs/2609.17770">short paper</a> from our resulting work</li>
+
 </p>
 
 {{< figure src="mbsc.png" caption="*Vizualization of the point cloud sampled from randomly generated rock climbing wall in polyscope*" alt="moonboard screenshot" >}}
